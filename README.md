@@ -10,8 +10,9 @@ graph LR
   B --> C[Dot-bracket representation of RNA secondary structure]
   C --> D[Multi-objective Genetic Algorithm]
   D --> E[Subsequence partitioning]
-  E --> F[Calculate fitness functions]
-  F --> G[Population creation]
+  D --> F[Calculate fitness functions]
+  E --> G[Population creation]
+  F --> G
   G --> H[Individual selection]
   H --> I[Crossover]
   I --> J[Mutation]
