@@ -20,5 +20,4 @@ graph LR
   K --> L[RNA secondary structure prediction result]
 ```
 
-Source code will be coming soon.
 
